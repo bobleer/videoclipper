@@ -1,6 +1,6 @@
 # videoclipper
-The easiest video clipper.  
-  
+The easiest and fastest video clipper.
+
 # Requirement
 ```sh
 brew install ffmpeg
