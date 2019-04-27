@@ -2,8 +2,12 @@
 The easiest and fastest video clipper.
 
 # Requirement
+* [FFmpeg](http://ffmpeg.org/download.html)
 ```sh
+# macOS
 brew install ffmpeg
+# Ubuntu
+apt install ffmpeg
 ```
 
 # Install
