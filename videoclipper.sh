@@ -16,6 +16,6 @@ read outfilename
 
 exten=${videopath##*.}
 
-ffmpeg -i $videopath -vcodec copy -acodec copy -ss $startpoint -to $endpoint $outfilename.$exten
+ffmpeg -i "$videopath" -vcodec copy -acodec copy -ss $startpoint -to $endpoint $outfilename.$exten
 
 open ./
