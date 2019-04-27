@@ -1,5 +1,12 @@
 # videoclipper
 The easiest video clipper.  
   
-# install  
-curl -o 
+# Install
+```sh
+curl 'https://raw.githubusercontent.com/bobleer/videoclipper/master/videoclipper.sh' -o /usr/local/bin/videoclipper && chmod +x /usr/local/bin/videoclipper
+```
+
+# Usage
+```sh
+videoclipper
+```
