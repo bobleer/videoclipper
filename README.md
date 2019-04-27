@@ -1,2 +1,5 @@
 # videoclipper
-The easiest video clipper.
+The easiest video clipper.  
+  
+# install  
+curl -o 
